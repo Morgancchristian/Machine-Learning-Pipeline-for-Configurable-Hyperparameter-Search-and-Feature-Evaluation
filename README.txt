@@ -8,5 +8,5 @@ Castillon, I., Chartier, T., Venkatesha, V., Okada, N. S., Davis, A., Cleary, A.
 CHARTIER, T., CASTILLON, I., VENKATESHA, V., CLEARY, A. M., BLANCHARD, N. T., ORCiD, I. D., & Chartier, T. Using Eye Gaze to Differentiate Internal Feelings of Familiarity in Virtual Reality Environments: Challenges and Opportunities. Annual Review of Cybertherapy And Telemedicine 2024, 96.
 
 
-In [1] you can find the methodology used for collecting the eye-gaze dataset. Importantly, on page 9 of [1], you will find the description of the "Virtual Reality Familiarity Dataset" which is the dataset that the subsequent experiments were preformed with. In [2], you will find variations of [1] in the sense that the Chartier [2] conducted experiments, 3 in total, using subsets of the Virtual Reality Familiarity Dataset and different target variables.   
+In [1] you can find the methodology used for collecting the eye-gaze dataset. Importantly, on page 9 of [1], you will find the description of the "Virtual Reality Familiarity Dataset" which is the dataset that the subsequent experiments were preformed with. In [2], you will find variations of [1] in the sense that the Chartier [2] conducted experiments, 3 in total, using various subsets and target variables of the Virtual Reality Familiarity Dataset from [1].   
 
