@@ -1,5 +1,5 @@
 
-For context, previous work done at the Integrative Modeling,Perception and Affective CompuTing (IMPACT) lab, run by Dr. Nathaniel Blanchard, in collaboration with the Human Memory lab, run by Dr. Anne Cleary, both at Colorado State University showed the viability of using machine learning to predict outcomes of recognition memory processes using eye-gaze data. For information on how this was done please refer to the following papers:
+For context, previous work done at the Integrative Modeling,Perception and Affective CompuTing (IMPACT) lab, run by Dr. Nathaniel Blanchard, in collaboration with the Human Memory lab, run by Dr. Anne Cleary, both at Colorado State University, showed the viability of using machine learning models to predict outcomes of recognition memory processes using eye-gaze data. For information on how this was done please refer to the following papers:
 
 [1]
 Castillon, I., Chartier, T., Venkatesha, V., Okada, N. S., Davis, A., Cleary, A. M., & Blanchard, N. (2024, June). Automatically Identifying the Human Sense of Familiarity Using Eye Gaze Features. In International Conference on Human-Computer Interaction (pp. 291-310). Cham: Springer Nature Switzerland.
